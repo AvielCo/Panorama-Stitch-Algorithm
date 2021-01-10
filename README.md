@@ -18,13 +18,13 @@ Result:
 ## Installation
 	python version 3.7
 	libraries needed:
-   [opencv](https://pypi.org/project/opencv-python/)
+>[opencv](https://pypi.org/project/opencv-python/)
    
-   [numpy](https://numpy.org/)
+>[numpy](https://numpy.org/)
    
-   [argparse](https://docs.python.org/3/library/argparse.html)
+>[argparse](https://docs.python.org/3/library/argparse.html)
    
-   [matplotlib](https://matplotlib.org/) - optional, only to view photos in realtime
+>[matplotlib](https://matplotlib.org/) - optional, only to view photos in realtime
 
 ## How to use?
 	1. open terminal/CMD
