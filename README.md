@@ -10,6 +10,7 @@ Takes 2 photos:
 ![alt text](https://github.com/AvielCo/Panorama-Stitch-Algorithm/blob/main/right.jpg?raw=true)
 
 Result:
+
 	- Panorama image:
 	
 ![alt text](https://github.com/AvielCo/Panorama-Stitch-Algorithm/blob/main/panorama.jpg?raw=true)
