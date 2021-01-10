@@ -1,5 +1,14 @@
 ## Panorama creator ##
 
+## Example of use
+Takes 2 photos: 
+
+	- Left image: 
+	
+	- Right image:
+	
+	- Result (panorama image):
+	
 ## Installation
 	python version 3.7
 	libraries needed:
@@ -17,7 +26,7 @@
 	3. result will be panorama of both images using stitch algorithm
 	
 ## Credits
-	Aviel Cohen - 313127664
-	Vitaly Nechayuk - 324359926
+	Aviel Cohen
+	Vitaly Nechayuk 
 
 AviVit Technologies Inc. ©
