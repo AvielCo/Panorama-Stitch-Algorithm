@@ -1,6 +1,4 @@
 ## Panorama creator ##
-
-## Example of use
 Takes 2 photos: 
 
 	- Left image: 
@@ -10,8 +8,9 @@ Takes 2 photos:
 	- Right image:
 	
 ![alt text](https://github.com/AvielCo/Panorama-Stitch-Algorithm/blob/main/right.jpg?raw=true)
-		
-	- Result (panorama image):
+
+Result:
+	- Panorama image:
 	
 ![alt text](https://github.com/AvielCo/Panorama-Stitch-Algorithm/blob/main/panorama.jpg?raw=true)
 		
