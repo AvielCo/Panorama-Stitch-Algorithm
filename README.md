@@ -32,7 +32,6 @@ Result:
 	3. result will be panorama of both images using stitch algorithm
 	
 ## Credits
-	Aviel Cohen
-	Vitaly Nechayuk 
+[Aviel Cohen](https://github.com/AvielCo)
 
-AviVit Technologies Inc. ©
+[Vitaly Nechayuk](https://github.com/VitNecha)
