@@ -4,11 +4,17 @@
 Takes 2 photos: 
 
 	- Left image: 
-		![alt text](https://github.com/AvielCo/Panorama-Stitch-Algorithm/blob/main/left.jpg?raw=true)
+	
+![alt text](https://github.com/AvielCo/Panorama-Stitch-Algorithm/blob/main/left.jpg?raw=true)
+		
 	- Right image:
-		![alt text](https://github.com/AvielCo/Panorama-Stitch-Algorithm/blob/main/right.jpg?raw=true)
+	
+![alt text](https://github.com/AvielCo/Panorama-Stitch-Algorithm/blob/main/right.jpg?raw=true)
+		
 	- Result (panorama image):
-		![alt text](https://github.com/AvielCo/Panorama-Stitch-Algorithm/blob/main/panorama.jpg?raw=true)
+	
+![alt text](https://github.com/AvielCo/Panorama-Stitch-Algorithm/blob/main/panorama.jpg?raw=true)
+		
 ## Installation
 	python version 3.7
 	libraries needed:
